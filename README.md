@@ -18,11 +18,11 @@
 ### Risk Items
  1.  **HIGH** - Definition of &quot;done&quot; to declare PDXC ready for Prodution.
  2.  **HIGH** - Need dedicated PDXC staff to populate scum teams for proper velocity prediction
- 3.  **High** - Establishment of end to end testing in TEST thru PROD environments
+ 3.  **HIGH** - Establishment of end to end testing in TEST thru PROD environments
 
 ### Next Steps
--
-- Add / Update Unit testsContinue development to support non-SNI endpoints
+- Add / Update Unit tests
+- Continue development to support non-SNI endpoints
 - ServiceNow to Jira integration
 - Develop VPC Link capability
 - Hot fix branching strategy
