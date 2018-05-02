@@ -19,9 +19,12 @@
 - Completed Initial GDPR assessment ofIntegration Framework tools
 
 ## Risk Items
- 1.  HIGH - Definition of &quot;done&quot; to declare
- 2.  PDXC ready for Prodution HIGH - Need dedicated PDXC staff to populate scum teams for proper velocity preictions
- 3.  velocity predictions High - Establishment of end to end testing in TEST thru PROD environments
+ 1.  
+ ....**HIGH** - Definition of &quot;done&quot; to declare
+ 2.  PDXC ready for Prodution 
+ ....**HIGH** - Need dedicated PDXC staff to populate scum teams for proper velocity preictions
+ 3.  velocity predictions 
+ ....**High** - Establishment of end to end testing in TEST thru PROD environments
 
 ## Next Steps
 -
