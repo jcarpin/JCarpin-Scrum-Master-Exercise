@@ -1,6 +1,6 @@
 # JCarpin-Scrum-Master-Exercise
 
-## WS7 Integration Framework                      Mr. Scrum Master
+## WS7 Integration Framework.................................... Mr. Scrum Master
 
 ### Key Deliverables
 - API Gateway selection implementation, and support 
