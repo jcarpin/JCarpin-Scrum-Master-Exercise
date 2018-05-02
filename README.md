@@ -13,18 +13,12 @@
 - Updated API Gateway usage plan 
 - Modified Custom Authorizer LambdaFunction to handle API-Key 
 - Enabled auto deployment of Cognitoconfiguration 
-- Updated Security Function to Changeuser&#39;s password or Revoke User 
-- Configured DEV environment for non-SNI CloudFront endpoint forConfiguration Items API 
-- Added VPC Link Permissions 
-- Completed Initial GDPR assessment ofIntegration Framework tools
+- Updated Securamework tools
 
 ### Risk Items
- 1.  
- ....**HIGH** - Definition of &quot;done&quot; to declare
- 2.  PDXC ready for Prodution 
- ....**HIGH** - Need dedicated PDXC staff to populate scum teams for proper velocity preictions
- 3.  velocity predictions 
- ....**High** - Establishment of end to end testing in TEST thru PROD environments
+ 1.  **HIGH** - Definition of &quot;done&quot; to declare PDXC ready for Prodution2.
+ 2.  **HIGH** - Need dedicated PDXC staff to populate scum teams for proper velocity prediction
+ 3.  **High** - Establishment of end to end testing in TEST thru PROD environments
 
 ### Next Steps
 -
