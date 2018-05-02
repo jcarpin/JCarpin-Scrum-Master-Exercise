@@ -1,6 +1,6 @@
 # JCarpin-Scrum-Master-Exercise
 
-# WS7 Integration Framework          |   Mr. Scrum Master
+# WS7 Integration Framework             Mr. Scrum Master
 
 ### Key Deliverables
 - API Gateway selection implementation, and support 
@@ -17,7 +17,7 @@
 
 ### Risk Items
  1.  **HIGH** - Definition of &quot;done&quot; to declare PDXC ready for Prodution.
- 2.  **HIGH** - Need dedicated PDXC staff to populate scum teams for proper velocity prediction
+ 2.  **HIGH** - Need dedicated PDXC staff to populate scum teams for proper velocity prediction
  3.  **HIGH** - Establishment of end to end testing in TEST thru PROD environments
 
 ### Next Steps
