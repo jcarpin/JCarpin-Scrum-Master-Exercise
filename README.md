@@ -16,7 +16,7 @@
 - Updated Securamework tools
 
 ### Risk Items
- 1.  **HIGH** - Definition of &quot;done&quot; to declare PDXC ready for Prodution2.
+ 1.  **HIGH** - Definition of &quot;done&quot; to declare PDXC ready for Prodution.
  2.  **HIGH** - Need dedicated PDXC staff to populate scum teams for proper velocity prediction
  3.  **High** - Establishment of end to end testing in TEST thru PROD environments
 
