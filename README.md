@@ -1,15 +1,15 @@
 # JCarpin-Scrum-Master-Exercise
 
-# WS7 Integration Framework          | Mr. Scrum Master
+# WS7 Integration Framework          |   Mr. Scrum Master
 
-## Key Deliverables
+### Key Deliverables
 - API Gateway selection implementation, and support 
 - Publish standard API designspecifications 
 - Updated Integration API Pipeline forRelease to Artifactory 
 - Establish API management tools andinstructions 
 - Establish API platform onboardingapproach
 
-## Key Accomplishments 
+### Key Accomplishments 
 - Updated API Gateway usage plan 
 - Modified Custom Authorizer LambdaFunction to handle API-Key 
 - Enabled auto deployment of Cognitoconfiguration 
@@ -18,7 +18,7 @@
 - Added VPC Link Permissions 
 - Completed Initial GDPR assessment ofIntegration Framework tools
 
-## Risk Items
+### Risk Items
  1.  
  ....**HIGH** - Definition of &quot;done&quot; to declare
  2.  PDXC ready for Prodution 
@@ -26,7 +26,7 @@
  3.  velocity predictions 
  ....**High** - Establishment of end to end testing in TEST thru PROD environments
 
-## Next Steps
+### Next Steps
 -
 - Add / Update Unit testsContinue development to support non-SNI endpoints
 - ServiceNow to Jira integration
