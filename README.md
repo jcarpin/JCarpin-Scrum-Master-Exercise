@@ -32,8 +32,8 @@
 - Updates to Integration Framework and API Documentation
 
 
-WS7 Integration Framework             Mr. Scrum Master
---------------------------------- | ------------------------------------------
+WS7 Integration Framework                                 Mr. Scrum Master
+-------------------------------------------------- | ---------------------------------------------------|
 
 Key Deliverables                                   |      Risk Items
 -------------------------------------------------- | -------------------------------------------------- |
